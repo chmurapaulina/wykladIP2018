@@ -11,9 +11,9 @@ namespace RownaniaKwadratowe
         static void Main(string[] args)
         {
             double a, b, c;
-            a = 1;
-            b = 4;
-            c = -5;
+            a = 2;
+            b = 0;
+            c = -8;
 
             if (a == 0)
             {
