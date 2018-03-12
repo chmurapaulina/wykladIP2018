@@ -11,6 +11,7 @@ namespace RownaniaKwadratowe
         static void Main(string[] args)
         {
             double a, b, c;
+            Console.WriteLine("Podaj a, b, c zatwierdzając enterem");
             a = double.Parse(Console.ReadLine());
             b = double.Parse(Console.ReadLine());
             c = double.Parse(Console.ReadLine());
